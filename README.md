@@ -5,7 +5,7 @@
 
 ![Full_main](./src/overview_img.png)
 
-<img src="./src/stockupt_test.gif  width="200" height="400"/>
+![Full_test](./src/stockupt_test.gif)
 
 ## Overview
 
