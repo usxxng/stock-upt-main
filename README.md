@@ -3,9 +3,8 @@
 
 ## My Stock Chatbot (Stock UPT) Streamlit Project
 
-![Full_main](./src/main.png)
-![Full_case1](./src/case1.png)
-![Fill_case2](./src/case2.png)
+![Full_main](./src/overview_img.png)
+
 ## Overview
 
 This repository contains a project that builds an Augmented Search Generation (RAG) application leveraging LangChain and Streamlit. The primary goal of this application is to provide insights and answers based on Korean Stock Market Data (KOSPI & KOSDAQ). Advanced natural language processing (NLP) techniques are used to improve responses by combining chat transcripts with low-shot learning templates.
