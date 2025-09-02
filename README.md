@@ -4,7 +4,7 @@
 ## My Stock Chatbot (Stock UPT) Streamlit Project
 
 ![Full_main](./src/overview_img.png)
-![Full_test](./src/stockupt_test.gif)
+![Full_test](./src/stockupt_test.gif){: width="300" height="300"){: .center}
 
 ## Overview
 
